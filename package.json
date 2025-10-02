@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/mistral": "^1.2.1",
+    "@ai-sdk/mistral": "^1.2.8",
     "@azure/identity": "^4.8.0",
     "@langchain/core": "^0.3.43",
     "@langchain/openai": "^0.5.0",
