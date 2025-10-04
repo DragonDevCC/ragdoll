@@ -21,7 +21,7 @@
     "ai": "^4.3.19",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "lucide-react": "^0.490.0",
+    "lucide-react": "^0.491.0",
     "next": "14.2.32",
     "react": "^18",
     "react-dom": "^18",
