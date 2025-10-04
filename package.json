@@ -11,7 +11,7 @@
   "dependencies": {
     "@ai-sdk/mistral": "^1.2.1",
     "@azure/identity": "^4.12.0",
-    "@langchain/core": "^0.3.43",
+    "@langchain/core": "^0.3.78",
     "@langchain/openai": "^0.6.14",
     "@microsoft/microsoft-graph-client": "^3.0.7",
     "@prisma/client": "^6.12.0",
